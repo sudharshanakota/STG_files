@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: SAMPLEBOX_DATA
+    schema: practice
+    tables:
+      - name: stg_custmer
+     
