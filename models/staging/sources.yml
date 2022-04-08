@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: practice
+    database: samplebox_data
+    tables:
+      - name: stg_custmer
+      - name: stg_time
+      - name: stg_salesdetail
+      - name: stg_geography
+      - name: stg_product
